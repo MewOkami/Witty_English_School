@@ -20,6 +20,19 @@ export const DashBoardMainStyle = styled.div`
     margin-top: 126px;
   }
 
+  .DashBoardMainStyle__main--section1Div2 {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    color: var(--color-primary);
+
+    gap: 10px;
+  }
+
+  .DashBoardMainStyle__main--section1Div2Blue {
+    font-size: 40px;
+  }
+
   .DashBoardMainStyle__main--section1Div1 {
     display: flex;
     flex-direction: column;

@@ -18,15 +18,16 @@ export const DashBoardMain = () => {
         <section className="DashBoardMainStyle__main--section1">
           <div className="DashBoardMainStyle__main--section1Div1">
             <div className="DashBoardMainStyle__main--section1Div2">
-              <h2 className="DashBoardMainStyle__main--section1Div2Blue">
-                Witty means ...
-              </h2>
+              <h1 className="DashBoardMainStyle__main--section1Div2Blue">
+                Witty
+              </h1>
+              <h2>means ...</h2>
             </div>
             <h3>* Quick</h3>
             <h3>* Inventive</h3>
             <h3>* Funny</h3>
             <div className="DashBoardMainStyle__main--section1Div3">
-              <h3>That could be you</h3>
+              <h3>That could be YOU</h3>
               <h3 className="DashBoardMainStyle__main--section1Div3blue">
                 in English!!!
               </h3>
@@ -165,7 +166,7 @@ export const DashBoardMain = () => {
           </div>
           <div className="DashBoardMainStyle__main--section3div1">
             <TypographyTexts id="testimony">
-              Mariah has an array of experience facilitating connections between
+              Mariah has extensive experience facilitating connections between
               Brazil (Sao Paulo) and Canada (Toronto and Vancouver), including
               workingas a teacher and cultural facilitator. Her natural ability
               to build connections allows Mariah to develop meaningful outcomes
