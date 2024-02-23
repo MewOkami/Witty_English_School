@@ -10,10 +10,9 @@ export const DashBoardHeader = () => {
     <Header>
       <div className="Header__container">
         <div className="Header__container--logo">
-          <TypographySubtitles className="Header__container--p">
-            Witty
-          </TypographySubtitles>
-          <TypographyTitles>English 4 You</TypographyTitles>
+          <TypographyTitles className="Header__container--p">
+            Witty English 4 You
+          </TypographyTitles>
         </div>
 
         <nav className="Header__container--nav">
