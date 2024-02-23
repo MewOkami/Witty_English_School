@@ -17,6 +17,8 @@ export const DashBoardMainStyle = styled.div`
     align-items: center;
     padding: 20px 5vw;
 
+    height: 400px;
+
     margin-top: 126px;
   }
 
@@ -297,10 +299,10 @@ export const DashBoardMainStyle = styled.div`
   .DashBoardMainStyle__main--sectionPInfo {
     color: var(--color-primary);
   }
-
   @media (min-width: 768px) {
     .DashBoardMainStyle__main--section1 {
       background-color: var(--color-white-Disable);
+      height: 350px;
       padding: 40px 12vw;
     }
 

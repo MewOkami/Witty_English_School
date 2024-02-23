@@ -200,8 +200,8 @@ export const DashBoardMain = () => {
               </div>
               <TypographyTexts>
                 "Por muito tempo, venho tentando aprender Ingles, quero viajar e
-                me comunicar com as pessoas. Com o curso de conversação da
-                WittyEnglish, consegui me soltar, tenho mais confiança na minha
+                me comunicar com as pessoas. Com o curso de conversação da Witty
+                English 4 You, consegui me soltar, tenho mais confiança na minha
                 comunicação em Ingles e as minhas viagens tornaram-se mais
                 interessantes, tenho muito a agradecer a Mariah pela sua
                 metodologia e positividade"
