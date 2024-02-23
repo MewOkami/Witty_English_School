@@ -73,7 +73,7 @@ export const ContactUsMain = () => {
           <input
             type="hidden"
             name="redirectTo"
-            value="http://localhost:5173"
+            value="https://witty-english-school.vercel.app/"
           />
         </form>
       </div>
