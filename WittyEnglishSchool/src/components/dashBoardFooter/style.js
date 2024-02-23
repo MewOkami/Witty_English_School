@@ -1,7 +1,8 @@
 import styled from "styled-components";
 
 export const DashBoardFooterStyle = styled.footer`
-  background-color: var(--color-grey-black);
+  background-color: var(--color-white-Disable);
+  color: var(--color-grey-black);
 
   .DashBoardFooterStyle__divContainer {
     display: flex;

@@ -7,6 +7,7 @@ export const GlobalStyles = createGlobalStyle`
         --color-grey-black: #000000;
         --color-grey-black-Hover: #20202F;
         --color-grey-white: #ffffff;
+        --color-white-Disable: #e8edf2;
         --color-grey-white-Opaccity: #ffffff59;
         
         /* background: rgb(0, 0, 0);

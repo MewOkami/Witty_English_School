@@ -5,19 +5,14 @@ export const StyledContactUsMain = styled.main`
   align-items: center;
   justify-content: center;
 
-  color: var(--color-grey-white);
+  color: var(--color-grey-black);
 
-  background: rgb(0, 0, 0);
-  background: linear-gradient(
-    90deg,
-    rgba(0, 0, 0, 1) 62%,
-    rgba(33, 2, 2, 1) 100%
-  );
+  background-color: var(--color-grey-white);
 
   height: 100vh;
 
   .StyledMainContacts__divContainer {
-    background-color: var(--color-grey-black);
+    background-color: var(--color-white-Disable);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -25,7 +20,6 @@ export const StyledContactUsMain = styled.main`
     padding: 10px;
 
     border-radius: 10px;
-    border: solid 1px var(--color-primary-Hover);
 
     gap: 35px;
   }
@@ -70,8 +64,8 @@ export const StyledContactUsMain = styled.main`
   }
 
   .StyledMainContacts__divContainer--FormInput {
-    background-color: var(--color-grey-black-Hover);
-    color: var(--color-grey-white);
+    background-color: var(--color-grey-white);
+    color: var(--color-grey-black);
 
     height: 30px;
 
@@ -81,8 +75,8 @@ export const StyledContactUsMain = styled.main`
   }
 
   .StyledMainContacts__divContainer--FormTextArea {
-    background-color: var(--color-grey-black-Hover);
-    color: var(--color-grey-white);
+    background-color: var(--color-grey-white);
+    color: var(--color-grey-black);
 
     height: 150px;
 

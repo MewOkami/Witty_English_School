@@ -1,12 +1,8 @@
 import styled from "styled-components";
 
 export const DashBoardMainStyle = styled.div`
-  background: rgb(0, 0, 0);
-  background: linear-gradient(
-    90deg,
-    rgba(0, 0, 0, 1) 62%,
-    rgba(33, 2, 2, 1) 100%
-  );
+  background-color: var(--color-grey-white);
+  color: var(--color-grey-black);
 
   .DashBoardMainStyle__main {
     display: flex;
@@ -14,7 +10,7 @@ export const DashBoardMainStyle = styled.div`
   }
 
   .DashBoardMainStyle__main--section1 {
-    background-color: var(--color-grey-black-Hover);
+    background-color: var(--color-white-Disable);
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -158,7 +154,7 @@ export const DashBoardMainStyle = styled.div`
   }
 
   .DashBoardMainStyle__main--section3 {
-    background-color: var(--color-grey-black-Hover);
+    background-color: var(--color-white-Disable);
 
     display: flex;
     flex-direction: column;
@@ -248,7 +244,7 @@ export const DashBoardMainStyle = styled.div`
   }
 
   .DashBoardMainStyle__main--section5 {
-    background-color: var(--color-grey-black-Hover);
+    background-color: var(--color-white-Disable);
 
     display: flex;
     justify-content: center;
@@ -291,7 +287,7 @@ export const DashBoardMainStyle = styled.div`
 
   @media (min-width: 768px) {
     .DashBoardMainStyle__main--section1 {
-      background-color: var(--color-grey-black-Hover);
+      background-color: var(--color-white-Disable);
       padding: 40px 12vw;
     }
 
@@ -308,7 +304,7 @@ export const DashBoardMainStyle = styled.div`
     }
 
     .DashBoardMainStyle__main--section3 {
-      background-color: var(--color-grey-black-Hover);
+      background-color: var(--color-white-Disable);
       padding: 60px 12vw;
     }
 

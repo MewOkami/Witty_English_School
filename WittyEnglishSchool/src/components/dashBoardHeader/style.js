@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
 export const Header = styled.header`
-  color: var(--color-grey-white);
+  color: var(--color-grey-black);
 
-  background-color: var(--color-grey-black);
+  background-color: var(--color-grey-white);
 
   position: fixed;
 
@@ -17,7 +17,7 @@ export const Header = styled.header`
     align-items: center;
     flex-wrap: wrap;
 
-    border-bottom: solid 1px var(--color-grey-black-Hover);
+    border-bottom: solid 1px var(--color-white-Disable);
 
     gap: 15px;
 

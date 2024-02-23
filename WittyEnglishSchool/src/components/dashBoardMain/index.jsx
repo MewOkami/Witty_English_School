@@ -18,17 +18,17 @@ export const DashBoardMain = () => {
         <section className="DashBoardMainStyle__main--section1">
           <div className="DashBoardMainStyle__main--section1Div1">
             <div className="DashBoardMainStyle__main--section1Div2">
-              <p className="DashBoardMainStyle__main--section1Div2Blue">
+              <h2 className="DashBoardMainStyle__main--section1Div2Blue">
                 Witty means ...
-              </p>
+              </h2>
             </div>
             <h3>* Quick</h3>
             <h3>* Inventive</h3>
-            <h3>* Funny...</h3>
+            <h3>* Funny</h3>
             <div className="DashBoardMainStyle__main--section1Div3">
-              <h3>That could be</h3>
+              <h3>That could be you</h3>
               <h3 className="DashBoardMainStyle__main--section1Div3blue">
-                YOU...in English!!!
+                in English!!!
               </h3>
             </div>
           </div>
@@ -43,19 +43,20 @@ export const DashBoardMain = () => {
 
         <section id="about" className="DashBoardMainStyle__main--section2">
           <div className="DashBoardMainStyle__main--section3divTitle">
-            <h2 className="DashBoardMainStyle__main--section2H2">Sobre A</h2>
+            <h2 className="DashBoardMainStyle__main--section2H2">Sobre</h2>
             <h2 className="DashBoardMainStyle__main--section3h3Title">
-              Escola
+              Witty English4you
             </h2>
           </div>
 
           <div className="DashBoardMainStyle__main--section2div1">
             <p>
-              We will work together on your learning experience with the Goal of
-              building Your knowledge, self-esteem and confidence.
+              We will work together to create a learning experience designed for
+              you with the goal of building your knowledge, self-esteem and
+              confidence.
             </p>
             <p>
-              Our learning process is tailored to Your experience and What is
+              Our learning process is tailored to your experience and what is
               happening in your life NOW!
             </p>
 
@@ -165,10 +166,10 @@ export const DashBoardMain = () => {
           <div className="DashBoardMainStyle__main--section3div1">
             <TypographyTexts id="testimony">
               Mariah has an array of experience facilitating connections between
-              Brazil (Sao Paulo) and Canada (Toronto and Vancouver), from
-              working as a teacher and cultural facilitator. Her natural ability
-              to build connections allows Mariah to develop meaning outcomes for
-              her students in an authentic and genuine way.
+              Brazil (Sao Paulo) and Canada (Toronto and Vancouver), including
+              workingas a teacher and cultural facilitator. Her natural ability
+              to build connections allows Mariah to develop meaningful outcomes
+              for her students in an authentic and genuine way.
             </TypographyTexts>
             <p>
               She grew up in Brazil and has moved between Brazil and Canada for
@@ -218,12 +219,13 @@ export const DashBoardMain = () => {
                 </div>
               </div>
               <TypographyTexts>
-                "I would like to express my gratitude and recommendation to
-                Mariah for her help in my language skills. I definitely improve
-                my English fluency through her good technique of conversation in
-                a friendly environment. I felt relax and eager to learn English!
-                She really has passion in teaching and there is no doubt you
-                will enjoy learning English with her"
+                "I would like to express my gratitude to Mariah for her help in
+                developing my language skills. I definitely improved my English
+                fluency through her great conversation techniques and the
+                friendly environment she creates. I felt relaxed and eager to
+                learn English! She really has a passion for teaching and there
+                is no doubt you will enjoy learning English with her. I highly
+                recommend her"
               </TypographyTexts>
             </div>
           </div>
