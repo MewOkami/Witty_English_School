@@ -168,7 +168,7 @@ export const DashBoardMain = () => {
             <TypographyTexts id="testimony">
               Mariah has extensive experience facilitating connections between
               Brazil (Sao Paulo) and Canada (Toronto and Vancouver), including
-              workingas a teacher and cultural facilitator. Her natural ability
+              working as a teacher and cultural facilitator. Her natural ability
               to build connections allows Mariah to develop meaningful outcomes
               for her students in an authentic and genuine way.
             </TypographyTexts>
@@ -199,7 +199,7 @@ export const DashBoardMain = () => {
                 </div>
               </div>
               <TypographyTexts>
-                "Por muito tempo, venho tentando aprender Ingles, quero viajar e
+                "Por muito tempo, venho tentando aprender Inglês, quero viajar e
                 me comunicar com as pessoas. Com o curso de conversação da Witty
                 English 4 You, consegui me soltar, tenho mais confiança na minha
                 comunicação em Ingles e as minhas viagens tornaram-se mais
