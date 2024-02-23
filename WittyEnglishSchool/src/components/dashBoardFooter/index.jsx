@@ -26,7 +26,7 @@ export const DashBoardFooter = () => {
             <TypographySubtitles className="DashBoardFooterStyle__divContainer--textEdit">
               Witty
             </TypographySubtitles>
-            <TypographyTitles>English4you</TypographyTitles>
+            <TypographyTitles>English 4 You</TypographyTitles>
           </div>
         </div>
 

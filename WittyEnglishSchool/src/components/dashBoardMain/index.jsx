@@ -46,7 +46,7 @@ export const DashBoardMain = () => {
           <div className="DashBoardMainStyle__main--section3divTitle">
             <h2 className="DashBoardMainStyle__main--section2H2">Sobre</h2>
             <h2 className="DashBoardMainStyle__main--section3h3Title">
-              Witty English4you
+              Witty English 4 You
             </h2>
           </div>
 

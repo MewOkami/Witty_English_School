@@ -13,7 +13,7 @@ export const DashBoardHeader = () => {
           <TypographySubtitles className="Header__container--p">
             Witty
           </TypographySubtitles>
-          <TypographyTitles>English4you</TypographyTitles>
+          <TypographyTitles>English 4 You</TypographyTitles>
         </div>
 
         <nav className="Header__container--nav">
