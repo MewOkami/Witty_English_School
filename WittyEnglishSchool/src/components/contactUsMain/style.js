@@ -19,9 +19,23 @@ export const StyledContactUsMain = styled.main`
 
     padding: 10px;
 
+    height: 630px;
+    width: 30vw;
+
     border-radius: 10px;
 
     gap: 35px;
+  }
+
+  .StyledMainContacts__divContainer--divContainerform {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 15px;
+
+    width: 100%;
+    height: 100%;
   }
 
   .StyledMainContacts__divContainer--divButtonBack {
@@ -58,8 +72,8 @@ export const StyledContactUsMain = styled.main`
 
     gap: 20px;
 
-    width: 30vw;
-    height: 70vh;
+    width: 90%;
+    height: 90%;
     padding: 5px;
   }
 
@@ -106,11 +120,13 @@ export const StyledContactUsMain = styled.main`
 
   @media (max-width: 768px) {
     .StyledMainContacts__divContainer {
+      height: 550px;
       width: 80vw;
     }
 
     .StyledMainContacts__divContainer--Form {
       width: 90%;
+      height: 80%;
     }
   }
 `;
